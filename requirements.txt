@@ -1,0 +1,16 @@
+pandas
+transformers
+tqdm
+matplotlib
+mysql-connector-python
+scikit-learn
+scikit-learn-extra
+google-cloud-storage
+torch
+torchvision
+Pillow
+seaborn
+openpyxl
+
+Ipykernel
+Ipywidget
