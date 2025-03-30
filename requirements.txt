@@ -13,4 +13,4 @@ seaborn
 openpyxl
 
 Ipykernel
-Ipywidget
+ipywidgets
